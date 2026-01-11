@@ -281,7 +281,7 @@ Data Engineer | AI Automation Specialist
 
 Para preguntas o reportar bugs:
 - Abre un Issue en GitHub
-- Contacta en: [jeyssonzerpa@gmail.com.com]
+- Contacta en: [jeyssonzerpa@gmail.com]
 
 ---
 
