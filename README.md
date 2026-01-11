@@ -270,9 +270,10 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 👨‍💻 Autor
 
-**Jeysson Laza**  
-Data Engineer | AI Automation Specialist  
-[LinkedIn](https://linkedin.com/in/jeyssonlaza) | [GitHub](https://github.com/jeyssonlza)
+**Jeysson Leoncio Z.**
+Data Engineer | AI Automation Specialist
+
+[LinkedIn](https://www.linkedin.com/in/jeysson-leoncio-z-712661249/) | [GitHub](https://github.com/jeyssonlza)283
 
 ---
 
@@ -280,7 +281,7 @@ Data Engineer | AI Automation Specialist
 
 Para preguntas o reportar bugs:
 - Abre un Issue en GitHub
-- Contacta en: [tu-email@example.com]
+- Contacta en: [jeyssonzerpa@gmail.com.com]
 
 ---
 
