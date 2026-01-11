@@ -1,0 +1,186 @@
+[
+    {
+        "id_usuario": "11dce9fa-9739-4561-ba0c-39ed458f96f7",
+        "Documento": 20765432103,
+        "Representante": "Juan Pérez",
+        "Correo": "juan.perez@example.com",
+        "Celular": 987654321,
+        "FechaInscripcion": "15/06/2022"
+    },
+    {
+        "id_usuario": "2d6470e060be3827447ca6d1e6db4edc",
+        "Documento": 87654321,
+        "Representante": "María García",
+        "Correo": "maria.garcia@example.com",
+        "Celular": 987654322,
+        "FechaInscripcion": "20/12/2022"
+    },
+    {
+        "id_usuario": "345b44c7-6158-4cb0-b72c-a990899d7de1",
+        "Documento": 10987654329,
+        "Representante": "Luis Torres",
+        "Correo": "luis.torres@example.com",
+        "Celular": 987654323,
+        "FechaInscripcion": "25/08/2022"
+    },
+    {
+        "id_usuario": "367dfe1b-2600-4aea-8b09-705edc64ca36",
+        "Documento": 12345678,
+        "Representante": "Ana Mendoza",
+        "Correo": "ana.mendoza@example.com",
+        "Celular": 987654324,
+        "FechaInscripcion": "10/03/2020"
+    },
+    {
+        "id_usuario": "36b1c4c823dc37956e1182f8268140df",
+        "Documento": 23456789,
+        "Representante": "Pedro Salazar",
+        "Correo": "pedro.salazar@example.com",
+        "Celular": 987654325,
+        "FechaInscripcion": "30/11/2021"
+    },
+    {
+        "id_usuario": "37956e11-2681-40df-82f8-36b1c4c823dc",
+        "Documento": 10345678908,
+        "Representante": "Carla López",
+        "Correo": "carla.lopez@example.com",
+        "Celular": 987654326,
+        "FechaInscripcion": "05/05/2020"
+    },
+    {
+        "id_usuario": "3827447c-e6db-4edc-a6d1-2d6470e060be",
+        "Documento": 10456789016,
+        "Representante": "Jorge Fernández",
+        "Correo": "jorge.fernandez@example.com",
+        "Celular": 987654327,
+        "FechaInscripcion": "17/01/2021"
+    },
+    {
+        "id_usuario": "382f2069-1964-4ed1-9588-4038b64327ae",
+        "Documento": 10567890123,
+        "Representante": "Lucía Rojas",
+        "Correo": "lucia.rojas@example.com",
+        "Celular": 987654328,
+        "FechaInscripcion": "21/07/2020"
+    },
+    {
+        "id_usuario": "39ed458f96f711dce9faba0c97394561",
+        "Documento": 20678901235,
+        "Representante": "José Díaz",
+        "Correo": "jose.diaz@example.com",
+        "Celular": 987654329,
+        "FechaInscripcion": "29/09/2021"
+    },
+    {
+        "id_usuario": "404334eb-952b-405c-9430-924710d94fa9",
+        "Documento": 10789012346,
+        "Representante": "Patricia Vega",
+        "Correo": "patricia.vega@example.com",
+        "Celular": 987654330,
+        "FechaInscripcion": "14/02/2021"
+    },
+    {
+        "id_usuario": "4b9b4adb-bae2-4eaf-9a09-93570ffac584",
+        "Documento": 89012345,
+        "Representante": "Andrés Chávez",
+        "Correo": "andres.chavez@example.com",
+        "Celular": 987654331,
+        "FechaInscripcion": "18/04/2021"
+    },
+    {
+        "id_usuario": "68e358be-2c49-4437-aca7-f7de11e1f0c3",
+        "Documento": 90123456,
+        "Representante": "Sandra Flores",
+        "Correo": "sandra.flores@example.com",
+        "Celular": 987654332,
+        "FechaInscripcion": "07/10/2021"
+    },
+    {
+        "id_usuario": "73307394-4e35-4538-909f-f15681b7b72e",
+        "Documento": 1234567,
+        "Representante": "Diego Castillo",
+        "Correo": "diego.castillo@example.com",
+        "Celular": 987654333,
+        "FechaInscripcion": "25/12/2024"
+    },
+    {
+        "id_usuario": "7b40ca11-186b-43e3-b0bc-a0dab66959d5",
+        "Documento": 10234567808,
+        "Representante": "Cecilia Ramírez",
+        "Correo": "cecilia.ramirez@example.com",
+        "Celular": 987654334,
+        "FechaInscripcion": "30/06/2022"
+    },
+    {
+        "id_usuario": "8b023854-92c2-4df1-8ca1-5c67b62ff459",
+        "Documento": 10345678915,
+        "Representante": "Martín Herrera",
+        "Correo": "martin.herrera@example.com",
+        "Celular": 987654335,
+        "FechaInscripcion": "03/11/2022"
+    },
+    {
+        "id_usuario": "8d4bfb93-d362-4827-b720-5a858ebdf527",
+        "Documento": 45678902,
+        "Representante": "Lorena Romero",
+        "Correo": "lorena.romero@example.com",
+        "Celular": 987654336,
+        "FechaInscripcion": "25/03/2020"
+    },
+    {
+        "id_usuario": "9afdc5c6-a578-4abd-ad94-e2b6b4c986ea",
+        "Documento": 56789013,
+        "Representante": "Hugo Campos",
+        "Correo": "hugo.campos@example.com",
+        "Celular": 987654337,
+        "FechaInscripcion": "19/07/2020"
+    },
+    {
+        "id_usuario": "a12477c4-2f0c-445e-9847-ff83caf0f46b",
+        "Documento": 67890124,
+        "Representante": "Andrea Soto",
+        "Correo": "andrea.soto@example.com",
+        "Celular": 987654338,
+        "FechaInscripcion": "28/02/2024"
+    },
+    {
+        "id_usuario": "d6662e06-0281-4ca9-a094-c79433821975",
+        "Documento": 10789012359,
+        "Representante": "Raúl Paredes",
+        "Correo": "raul.paredes@example.com",
+        "Celular": 987654339,
+        "FechaInscripcion": "13/08/2022"
+    },
+    {
+        "id_usuario": "dfc59397-d12f-43a6-b06a-cb2857da8fac",
+        "Documento": 10890123464,
+        "Representante": "Verónica Guzmán",
+        "Correo": "veronica.guzman@example.com",
+        "Celular": 987654340,
+        "FechaInscripcion": "15/05/2020"
+    },
+    {
+        "id_usuario": "e5eb1323-d782-457f-9aad-c79f8610f26b",
+        "Documento": 20648313513,
+        "Representante": "Edgar Quispe",
+        "Correo": "edgar.quispe@example.com",
+        "Celular": 956513587,
+        "FechaInscripcion": "15/12/2021"
+    },
+    {
+        "id_usuario": "ec01de9d-856c-45d7-a2ee-646e592e5a27",
+        "Documento": 46930355,
+        "Representante": "Andres Espinoza",
+        "Correo": "andres.espinoza@example.com",
+        "Celular": 995411368,
+        "FechaInscripcion": "25/04/2023"
+    },
+    {
+        "id_usuario": "ed1dc04a-afec-42e6-bb09-ee5da1354602",
+        "Documento": 4122697,
+        "Representante": "Gianella Garcia",
+        "Correo": "gianella.garia.example.com",
+        "Celular": 932148567,
+        "FechaInscripcion": "20/08/2023"
+    }
+]
