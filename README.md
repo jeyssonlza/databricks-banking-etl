@@ -98,6 +98,9 @@ databricks-banking-etl/
 └── config/                            # Configuraciones
     ├── settings.py                   # Variables globales
     └── connections.py                # Conexiones a BD
+├── Clientes.json               # Datos de clientes (ejemplo)
+├── Transacciones.csv           # Datos de transacciones (ejemplo)
+└── requirements.txt            # Dependencias Python
 ```
 
 ---
@@ -282,6 +285,23 @@ Data Engineer | AI Automation Specialist
 Para preguntas o reportar bugs:
 - Abre un Issue en GitHub
 - Contacta en: [jeyssonzerpa@gmail.com]
+
+---
+
+## 📄 Archivos de Datos de Ejemplo
+
+El repositorio incluye archivos de datos de ejemplo para facilitar pruebas y demostraciones:
+
+### Clientes.json
+- **Descripción**: Datos de clientes en formato JSON
+- **Estructura**: Array de objetos con ID, nombre y documento
+- **Uso**: Fuente para carga de datos de clientes
+
+### Transacciones.csv  
+- **Descripción**: Transacciones bancarias en formato CSV
+- **Delimitador**: Pipe (|)
+- **Columnas**: ClienteID, Fecha, Tipo, Monto, Moneda
+- **Uso**: Fuente para carga de datos de transacciones
 
 ---
 
